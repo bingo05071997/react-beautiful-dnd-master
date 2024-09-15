@@ -82,7 +82,7 @@ We have created [a free course on `egghead.io` 🥚](https://egghead.io/courses/
 
 `react-beautiful-dnd` exists to create beautiful drag and drop for lists that anyone can use - even people who cannot see. For a good overview of the history and motivations of the project you can take a look at these external resources:
 
-- 📖 [Rethinking drag and drop](https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b)
+- 📖 [Rethinking drag and drop](https://medium.com/@bingo0507/rethinking-drag-and-drop-d9f5770b4e6b)
 - 🎧 [React podcast: fast, accessible and beautiful drag and drop](https://reactpodcast.simplecast.fm/17)
 
 ## Not for everyone ✌️
@@ -167,7 +167,7 @@ There are a lot of libraries out there that allow for drag and drop interactions
 
 ## Creator ✍️
 
-Alex Reardon [@alexandereardon](https://twitter.com/alexandereardon)
+Alex Reardon [@bingo0507](https://twitter.com/bingo0507)
 
 > Alex is no longer personally maintaning this project. The other wonderful maintainers are carrying this project forward.
 
